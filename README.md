@@ -43,3 +43,9 @@ A console-based C++ application to track scores, players, and statistics across 
 You can compile this program using any standard C++ compiler, for example with g++:
 ```bash
 g++ -std=c++11 -o score_tracker main.cpp
+
+```
+
+------------------------------------------------------------------------------------------------------------------
+
+## STILL IN DEVELOPMENT
